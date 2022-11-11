@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "636c8592e26e578a3a93681f"
+  },
+  "employeeName": "as",
+  "employeeId": "asd",
+  "password": "412",
+  "personal": [
+    {
+      "name": "Aditya Modi",
+      "email": "adityamodi@gmail.com",
+      "contact": "5265451212",
+      "DOB": "1999-04-10",
+      "age": "23",
+      "gender": "male",
+      "employee_id": "636c8592e26e578a3a93681f"
+    }
+  ],
+  "addressDetails": [
+    {
+      "state": "Gujarat",
+      "city": "Ahemdabad",
+      "address": "C-4-14 , SARDARPARK-1",
+      "tripShedual": " Yearly Events(Annual Trip)",
+      "employee_id": "636c8592e26e578a3a93681f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "636ce322af0d86e8ff3c79cc"
+  },
+  "employeeName": "Hardiksinh Rajput",
+  "employeeId": "7875",
+  "password": "741",
+  "personal": [
+    {
+      "name": "Rajput Hardiksinh Ratansinh",
+      "email": "hardiksinhrajput98@gmail.com",
+      "contact": "+918140187327",
+      "DOB": "2000-03-17",
+      "age": "22",
+      "gender": "male",
+      "employee_id": "636ce322af0d86e8ff3c79cc"
+    }
+  ],
+  "addressDetails": [
+    {
+      "state": "Gujarat",
+      "city": "Sidhpur",
+      "address": "Chandravati vas",
+      "tripShedual": " Yearly Events(Annual Trip)",
+      "employee_id": "636ce322af0d86e8ff3c79cc"
+    }
+  ],
+  "__v": 0
+}]
